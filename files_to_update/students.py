@@ -1,3 +1,3 @@
 students = [
-"student1","student2"
+"WBSbot","student2"
 ]
