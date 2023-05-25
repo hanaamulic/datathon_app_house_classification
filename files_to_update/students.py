@@ -1,3 +1,3 @@
 students = [
-"WBSbot","student2"
+"WBSbot","Predictor","lazybee","#ayla","competitionhouse","Overfit","leader","JellyComb","TheBulgarianStallion"
 ]
